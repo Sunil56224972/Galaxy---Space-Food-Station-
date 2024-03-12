@@ -1,0 +1,30 @@
+{
+  "name": "planetono-space-food-station",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@storyblok/nuxt": "^6.0.10",
+    "@rive-app/canvas": "^2.27.6",
+    "@studio-freight/lenis": "^1.0.45",
+    "gsap": "^3.12.5",
+    "lottie-web": "^5.12.2",
+    "nuxt": "^3.12.4",
+    "swiper": "^11.1.12",
+    "three": "^0.167.1",
+    "vue": "^3.4.35",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.4.0",
+    "@types/three": "^0.167.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.3.5"
+  }
+}
