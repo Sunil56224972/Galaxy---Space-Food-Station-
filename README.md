@@ -113,8 +113,8 @@ planetono/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Sunil56224972/PLANETONO---Space-Food-Station-.git
-cd PLANETONO---Space-Food-Station-
+git clone https://github.com/Sunil56224972/Galaxy---Space-Food-Station-.git
+cd Galaxy---Space-Food-Station-
 
 # Install dependencies
 npm install
