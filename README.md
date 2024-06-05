@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="docs/preview-preloader.png" alt="Galaxy – Space Food Station" width="100%"/>
 
@@ -39,7 +39,7 @@
 
 ## 🚀 About This Project
 
-**Planetoño** is a personal portfolio project I built to practice and showcase advanced front-end engineering skills. The concept: a fictional space food station where astronauts can order meals.
+**Galaxy** is a personal portfolio project I built to practice and showcase advanced front-end engineering skills. The concept: a fictional space food station where astronauts can order meals.
 
 This project was my deep-dive into:
 - 🌌 **WebGL / Three.js** — 3D model rendering with custom `.glb` files and Draco compression
@@ -70,7 +70,7 @@ This project was my deep-dive into:
 ## 📁 Project Structure
 
 ```
-planetono/
+Galaxy/
 ├── app.vue                    # Root application entry
 ├── nuxt.config.ts             # Nuxt config (modules, chunks, CSS)
 ├── pages/
