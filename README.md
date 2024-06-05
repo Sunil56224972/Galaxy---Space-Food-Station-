@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/preview-preloader.png" alt="Planetoño – Space Food Station" width="100%"/>
+<img src="docs/preview-preloader.png" alt="Galaxy – Space Food Station" width="100%"/>
 
-# 🪐 PLANETOÑO — Space Food Station
+# 🪐 GALAXY — Space Food Station
 
 > A personal front-end portfolio project — an immersive, animated space-themed food experience.
 > Built with Nuxt 3, Three.js, GSAP, Rive, and Storyblok.
@@ -12,7 +12,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://gsap.com)
 
-**Designed & Developed by [Sunil Nathyogi](https://linkedin.com/in/sunil-81340839a)**
+**Frontend Development by [Sunil Nathyogi](https://linkedin.com/in/sunil-81340839a)**
 
 </div>
 
